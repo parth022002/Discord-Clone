@@ -1,3 +1,27 @@
+# Discord Clone
+
+
+## About 
+Discord clone project! This application replicates and enhances the core features of Discord, offering a seamless real-time communication experience. We built it using modern technologies to ensure it's fast, responsive, and easy to use.
+
+## Features
+- Create Servers
+- Create Channels
+- Easy Signin / Signup
+- Responsive 
+
+## Technology Use
+- [Next.js](https://nextjs.org/)
+- [Tailwind CSS](https://tailwindcss.com/)
+- [TypeScript](https://www.typescriptlang.org/)
+- [React](https://reactjs.org/)
+- [Shadcn/ui](https://ui.shadcn.com/docs)
+- [prisma](https://www.prisma.io/)
+- [Mongodb](https://www.mongodb.com/)
+- [clerk (For authentication)](https://clerk.com/docs)
+- [uploadthing](https://docs.uploadthing.com/)
+- [Socket.Io](https://socket.io/docs/v4/#:~:text=Socket.IO%20is%20a%20library,WebSocket)
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
